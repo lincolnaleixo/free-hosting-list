@@ -8,6 +8,11 @@
 
 # Static Sites
 - https://neocities.org/
+- https://render.com/
+- https://fastlix.com/
+- https://fast.io/
+- https://gitlab.com/
+- https://pages.github.com/
 
 # Services
 - https://vercel.com/
@@ -18,8 +23,9 @@
 - https://www.ibm.com/cloud/free
 - https://workers.cloudflare.com/
 - https://www.netlify.com/
-- https://pages.github.com/
-- https://firebase.google.com/pricing/
+- https://firebase.google.com/
 
 # Databases
 - https://getpantry.cloud/
+- https://restdb.io/
+- https://www.back4app.com/
