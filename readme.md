@@ -24,6 +24,7 @@
 - https://workers.cloudflare.com/
 - https://www.netlify.com/
 - https://firebase.google.com/
+- https://www.heroku.com/
 
 # Databases
 - https://getpantry.cloud/
