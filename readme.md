@@ -6,6 +6,9 @@
 - https://x10hosting.com/free-web-hosting
 - https://www.freehostia.com/
 
+# Sites with cms
+- https://developers.shopify.com/
+
 # Static Sites
 - https://neocities.org/
 - https://render.com/
