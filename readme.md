@@ -28,6 +28,9 @@
 - https://www.netlify.com/
 - https://firebase.google.com/
 - https://www.heroku.com/
+- https://www.serverless.com/
+- https://spot.io/
+- https://www.oracle.com/cloud/free
 
 # Databases
 - https://getpantry.cloud/
