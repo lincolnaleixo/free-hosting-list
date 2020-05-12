@@ -1,10 +1,11 @@
 # Hosting
-- https://www.000webhost.com/?uuid=4e6a103864cc27db7daf154b1bb65862
+- https://www.000webhost.com/
 - https://www.freehosting.com/free-hosting.html
 - https://infinityfree.net/
 - https://www.awardspace.com/free-hosting/
 - https://x10hosting.com/free-web-hosting
 - https://www.freehostia.com/
+- https://googiehost.com/freehosting.html
 
 # Sites with cms
 - https://developers.shopify.com/
@@ -17,7 +18,7 @@
 - https://gitlab.com/
 - https://pages.github.com/
 
-# Services
+# Services/Micro-Services
 - https://vercel.com/
 - https://aws.amazon.com/free
 - https://azure.microsoft.com/en-us/free/
@@ -37,3 +38,5 @@
 - https://restdb.io/
 - https://www.back4app.com/
 - https://www.mongodb.com/cloud/atlas
+- https://www.freesqldatabase.com/
+- https://www.freemysqlhosting.net/
