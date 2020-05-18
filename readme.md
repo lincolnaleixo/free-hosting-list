@@ -17,6 +17,10 @@
 - https://fast.io/
 - https://gitlab.com/
 - https://pages.github.com/
+- https://surge.sh/
+- https://www.kintohub.com/
+- https://www.gatsbyjs.com/
+- https://www.clodui.com/
 
 # Services/Micro-Services
 - https://vercel.com/
