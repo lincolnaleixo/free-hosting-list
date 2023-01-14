@@ -1,4 +1,5 @@
 # Hosting
+- https://tinkerhost.net/
 - https://www.000webhost.com/
 - https://www.freehosting.com/free-hosting.html
 - https://infinityfree.net/
